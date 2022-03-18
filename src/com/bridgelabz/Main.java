@@ -6,5 +6,6 @@ public class Main {
         System.out.println("This is the merge demo");
         System.out.println("first merge");
         System.out.println("second merge");
+        System.out.println("third merge");
     }
 }
