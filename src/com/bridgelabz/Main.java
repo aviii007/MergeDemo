@@ -7,5 +7,6 @@ public class Main {
         System.out.println("first merge");
         System.out.println("second merge");
         System.out.println("third merge");
+        System.out.println("fourth merge");
     }
 }
